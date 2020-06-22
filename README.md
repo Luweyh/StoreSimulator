@@ -1,4 +1,4 @@
-This represent a Store Simulator
+Store.py represent the store. And StoreTester is a unittest for the store.
 
 **Product:**
 
